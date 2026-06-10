@@ -4,7 +4,7 @@
 
 下载后，将脚本上传至路由器
 
-执行 
+执行: 
 ```
 bash bridge_router.sh
 ```
